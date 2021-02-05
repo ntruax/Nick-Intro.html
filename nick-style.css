@@ -1,0 +1,26 @@
+body{
+  background-color: #607D3B;
+}
+h1{
+  color: blue;
+  text-align: center;
+  font-size: 60px;
+  font-family: cursive;
+  border-top: 5px solid yellow;
+  border-bottom: 10px solid white;
+  text-shadow: 6px 6px 6px black;
+  padding: 10px;
+  margin: 10px;
+}
+.sentences{color: white;
+  font-family: monospace;
+}
+.print{color: blue;
+}
+.share{color: orange;
+}
+.sentences {
+  background: red;
+}
+img{border: 6px solid blue;
+}
